@@ -1,7 +1,7 @@
 TEAM_1_MESSAGE = "Egy új üzenet Dominiktól és Leotól!"
 TEAM_2_MESSAGE = "Üzenet Bálinttól"
 TEAM_3_MESSAGE = "Egy uj uzenet Csanadtol!"
-TEAM_4_MESSAGE = "Original message"
+TEAM_4_MESSAGE = "Viki változtat"
 TEAM_5_MESSAGE = "Normies, get out! REEEEEE!!! Ez egy másik szöveg"
 TEAM_6_MESSAGE = "Original message"
 TEAM_7_MESSAGE = "Original message"
