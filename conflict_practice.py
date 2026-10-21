@@ -1,4 +1,4 @@
-TEAM_1_MESSAGE = "Original message"
+TEAM_1_MESSAGE = "Egy új szöveg Leotól!"
 TEAM_2_MESSAGE = "Original message"
 TEAM_3_MESSAGE = "Original message"
 TEAM_4_MESSAGE = "Original message"
